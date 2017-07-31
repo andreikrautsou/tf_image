@@ -5,6 +5,10 @@
 
 https://www.docker.com/products/docker-toolbox
 
+2. Install TensorFlow:
+
+https://www.tensorflow.org/install/
+
 # Usage
 
 1. Clone this repository
