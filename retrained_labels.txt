@@ -1,0 +1,8 @@
+dolphin
+scorpion
+crocodile
+lobster
+elephant
+leopards
+octopus
+panda
